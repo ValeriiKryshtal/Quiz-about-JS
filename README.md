@@ -14,3 +14,4 @@ MDN Web Docs was used heavily for proper usage and syntax with javascript.
 
 License
 Licensed under the MIT license.
+![](https://github.com/ValeriiKryshtal/Quiz-about-JS/blob/main/quiz_sample.jpg)
